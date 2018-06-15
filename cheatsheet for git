@@ -3,3 +3,19 @@ git --version
 git config --global user.name 'Larry Melson'
 git config --global user.mail 'larry.melson@gmail.com'
 git config --global http.proxy https://x.x.x.x
+
+git config --list
+git config --global  --list
+
+git status
+git add <filename>  or git add *
+git rm <filename>
+git branch
+git log
+git commit -m "<nessage>"
+git inti
+git clone
+git checkout -b '<branch>'
+git reset <filename>
+
+
